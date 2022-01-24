@@ -23,4 +23,12 @@ public class MovieService {
 		Page<MovieDTO> page = result.map(x -> new MovieDTO(x));
 		return page;
 	}
+	
+	@Transactional(readOnly = true) /* Eficiencia no banco de dados */
+	public MovieDTO findById(Long id){
+		/* Pageable para consulta no banco com paginação */
+		Movie result = movieRepository.findById(id).get();
+		MovieDTO dto = new MovieDTO(result);
+		return dto;
+	}
 }
