@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+.footer{
+    height: 150;
+    background: #4D41C0;
+}
+
+.footer h1 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.footer p {
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.footer a {
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center; 
+    color: white;
+    margin-top: 20px;
+}
+
+.footer ul {
+    text-align: center;
+}
+
+.footer li {
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    display: inline;
+}
+
