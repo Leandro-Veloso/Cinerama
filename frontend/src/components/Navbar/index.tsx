@@ -6,7 +6,7 @@ function Navbar(){
         <header>
         <nav className="container">
             <div className="cinerama-nav-content">
-                <h1>Cinerama</h1>
+                <a href='https://cinerama-ufpa.netlify.app/'><h1>Cinerama</h1></a>
                 <a href="https://github.com/wgustavosantos/cinerama" target="_blank" rel="noreferrer">
                     <div className="cinerama-contact-container">
                         <GithubIcon />
