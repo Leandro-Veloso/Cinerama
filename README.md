@@ -76,4 +76,5 @@ Testes de endpoints com responses e requests PUT e GET - link da documentação 
 ## Autores:
 * Wenderson Santos - _Estudante de Sistemas de Informação_ [GitHub](https://github.com/wgustavosantos)
 * Leandro Veloso - _Estudante de Sistemas de Informação_ [GitHub](https://github.com/Leandro-Veloso)
-
+## Aplicação web:
+[Cinerama](https://cinerama-ufpa.netlify.app/)
