@@ -1,5 +1,4 @@
-![UFPA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyOqG3iMuzdu5X_KpvPiBXGXQ1I-LtBEgEQ&usqp=CAU)
-# &nbsp;__Universidade Federal do Pará__ 
+# &nbsp;__Universidade Federal do Pará__ ![UFPA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyOqG3iMuzdu5X_KpvPiBXGXQ1I-LtBEgEQ&usqp=CAU)
 ## Projeto Acadêmico - Cinerama
 ### Objetivo Geral
 Construir uma API com um frontend consumidor que avalie filmes dentro de uma escala de 1.0 a 5.0 com base na média aritmética de cada avaliação.
